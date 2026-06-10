@@ -8,7 +8,7 @@ public class HelloController {
 
   @GetMapping("/")
   public String index() {
-    return "Coisa bem legal from Spring Boot!";
+    return "Foi bem longo o processo mas no final tudo saiu funcionando! Viva!!!!!";
   }
 
 }
